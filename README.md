@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Cozy-kit
-- 👀 I’m interested in warrior cats & pop-culture
-- 🌱 I’m currently learning how to become a game designer
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+Hi people and other beings of Github, I am Cozy kit
+
 
 <!---
 Cozy-kit/Cozy-kit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
